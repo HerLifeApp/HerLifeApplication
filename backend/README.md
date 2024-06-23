@@ -13,12 +13,10 @@ To get started with the HerLife Backend, follow these steps:
 4. Start the server: $PLACEHOLDER$
 
 ## Database Configuration
-
 To configure the database for the HerLife Backend, follow these steps:
-
 1. Create a new PostgreSQL database.
 2. Update the database configuration in the `.env` file with your database credentials.
-
+### Option: You can go to [Postgre guide](https://github.com/HerLifer/HerLifeApplication/wiki/How-to-install-PostgreSQL)  to set up your PostgreSQL
 ## Starting the Server
 
 To start the HerLife Backend server, run the following command:
